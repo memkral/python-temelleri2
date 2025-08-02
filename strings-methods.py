@@ -17,6 +17,9 @@ message = 'Hello There. My name is Sadık Turan'
 # message = message.replace('Sadık','Çınar')
 # message = message.replace('Ç','c')
 message = message.center(50,'*')
+website = 'http://www.sadikturan.com'
+
+result
 
 
 print(message)
